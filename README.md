@@ -5,7 +5,7 @@ My greatest objective is to do something to make people's live better and I beli
 
 ### About me 👍
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermehjunior)](https://github.com/guilhermehjunior) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-hermenegildo-junior/)]( https://www.linkedin.com/in/guilherme-hermenegildo-junior/) [![Stack overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16921323/guilherme-hermenegildo-junior)](https://stackoverflow.com/users/16921323/guilherme-hermenegildo-junior)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/guilhermehjunior)](https://github.com/guilhermehjunior) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-hermenegildo-junior/)]( https://www.linkedin.com/in/guilherme-hermenegildo-junior/) [![Stack overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16921323/guilherme-hermenegildo-junior)](https://stackoverflow.com/users/16921323/guilherme-hermenegildo-junior)
 
 ### My Stats ⭐
 
