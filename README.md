@@ -5,9 +5,9 @@ My greatest objective is to do something to make people's live better and I beli
 
 ## About me 👍
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermehjunior)](https://github.com/guilhermehjunior)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guilhermehjunior)](https://github.com/guilhermehjunior) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-hermenegildo-junior/)]( https://www.linkedin.com/in/guilherme-hermenegildo-junior/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-hermenegildo-junior/)]( https://www.linkedin.com/in/guilherme-hermenegildo-junior/)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehjunior)](https://github.com/guilhermehjunior/github-readme-stats)
 
 
 
