@@ -9,8 +9,14 @@ My greatest objective is to do something to make people's live better and I beli
 
 ### My Stats ⭐
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehjunior&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehjunior&layout=compact&theme=dracula)](https://github.com/guilhermehjunior/github-readme-stats)
+<div style="display: inline"><br>
+  <a href="https://github.com/juliobarros-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermehjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehjunior&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<!-- ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehjunior&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehjunior&layout=compact&theme=dracula)](https://github.com/guilhermehjunior/github-readme-stats) -->
 
 ### Languages and Tools 💻
 
