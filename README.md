@@ -1,6 +1,6 @@
 ### Hellow 👋
 
-My name is Guilherme and I am a Web Development Student on Trybe, I am excited about new knowledges and challenges. I also graduated in Electrical Engineering, where I started taking interess in programing.
+My name is Guilherme and I am an Web Development Student on Trybe, I am excited about new knowledges and challenges. I also graduated in Electrical Engineering, where I started taking interess in programing.
 My greatest objective is to do something to make people's live better and I believe this new path will open many opportunites so I can accomplish it.
 
 ### About me 👍
